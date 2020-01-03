@@ -5,8 +5,8 @@ import { Injectable } from '@angular/core';
 })
 export class LoginService {
   dummyLoginCredentials = {
-    email: 'c@a.com',
-    password: 'Ca'
+    email: 'Clarion@clarion.com',
+    password: 'Clarion123'
   };
   username:'';
   constructor() { }
