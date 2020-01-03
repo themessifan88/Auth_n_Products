@@ -1,0 +1,24 @@
+[{
+    "id":"dkja1d",
+    "name":"prod1",
+    "rate":"45.98",
+    "quality":"2"
+},
+{
+    "id":"dkja2d",
+    "name":"prod2",
+    "rate":"45.98",
+    "quality":"3"
+},
+{
+    "id":"dkjg5d",
+    "name":"prod3",
+    "rate":"45.98",
+    "quality":"1"
+},
+{
+    "id":"ffa1d",
+    "name":"prod4",
+    "rate":"45.98",
+    "quality":"2"
+}]

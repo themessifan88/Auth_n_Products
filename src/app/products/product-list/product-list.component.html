@@ -1,0 +1,10 @@
+<div class="container">
+    <h2>Products</h2>
+    <button class="btn btn-primary" routerLink="/products/add">
+        Add Product
+    </button>
+    <div *ngFor="let product of products" class="item">
+        <app-product-item [item]="product" (deleteProduct)=deleteProduct(product.id)>
+        </app-product-item>
+    </div>
+</div>
